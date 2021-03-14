@@ -1,7 +1,7 @@
 # Parallel-Computing
 
 
-Project on [Parallel Computing course](https://lnu.se/en/course/parallel-computing-4dv657/vaxjo-exchange-part-time-spring/) couse 
+Project on [Parallel Computing](https://lnu.se/en/course/parallel-computing-4dv657/vaxjo-exchange-part-time-spring/) couse 
 
 The project consists on parallelizing the π serial code with OpenMp and CUDA and measure the speedup.
 
