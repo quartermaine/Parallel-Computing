@@ -7,6 +7,9 @@ The project consists on parallelizing the π with OpenMp and CUDA and measure th
 
 
 
+
+
+
 A scipt to approximate π with serial code 
 
 * [pi_serial.c](https://github.com/quartermaine/Parallel-Computing/blob/main/Code/pi_serial.c)
